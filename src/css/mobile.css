@@ -1,0 +1,33 @@
+@media(max-width:1440px) {
+
+    .lista li {
+        font-size: 16px;
+    }
+
+    .gallery {
+        height: auto;
+    }
+
+    .gallery_title {
+        font-size: 25px;
+    }
+
+    .leia_image {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .image1,
+    .image2,
+    .image3 {
+        height: 180px;
+    }
+
+    aside .links {
+        font-size: 15px;
+    }
+
+    .line {
+        width: 362px;
+    }
+}
